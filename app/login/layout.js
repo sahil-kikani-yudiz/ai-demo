@@ -1,7 +1,7 @@
-export default function layout({ children}) {
-    return(
+export default function layout({ children }) {
+  return (
         <div>
             {children}
         </div>
-    )
+  )
 }
